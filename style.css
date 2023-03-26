@@ -1,0 +1,86 @@
+
+.hero{
+    background-color: #f1f1f1;
+    padding: 100px;
+    margin: auto;
+    text-align: center;
+    height: 500px;
+    vertical-align:middle;
+
+}
+
+.hero-h1{
+    font-size: 3rem;
+}
+
+.fecha{
+    font-size: xx-large;
+}
+
+.frase{
+    font-size: 2rem;
+}
+
+/* Estilo para el boton */
+
+.button{
+    background-color: #4CAF50;
+    color:white;
+    border:none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 16px;
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+
+}
+
+/* Estilos de las cartas */
+.card-container{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    height: 70vh;
+}
+.titulo-redes{
+    font-size: 3.2rem;
+}
+.card{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) ;
+    transition: 0.3s;
+    display: inline-block;
+    width: 20%;
+    margin: 0 auto;
+    margin: 20px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.container {
+    padding: 2px 16px;
+  }
+
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .footer p {
+    font-size: 1.8rem;
+    color: blueviolet;
+  }
+
+  p, h4, h1, h2, b,.titulo-redes h2{
+    color:blueviolet;
+  }
